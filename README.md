@@ -1,4 +1,4 @@
-# Hi, I'm Victoria 👋
+# Hi, I'm Victoria
 
 ### I like messy questions, useful data, and explaining complex systems without making everyone's eyes glaze over.
 
@@ -14,7 +14,7 @@ My route into data started with psychology, moved through artificial intelligenc
 - Exploring practical uses of AI in analytics engineering
 - Turning lessons from real projects into talks, demos, and learning resources
 
-## What I bring to a team
+## What I bring to a topic
 
 - **A translator's mindset.** I enjoy working between stakeholders, engineers, analysts, and leaders to make sure we are solving the same problem.
 - **Technical depth with a practical purpose.** Tools matter, but only when they lead to something people can trust and use.
