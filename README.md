@@ -1,24 +1,25 @@
 # Hi, I'm Victoria 👋
 
-### I build data systems people can trust, then help people feel confident using them.
+### I like messy questions, useful data, and explaining complex systems without making everyone's eyes glaze over.
 
-My route into data started with psychology, moved through artificial intelligence and data science, and eventually found a home in analytics engineering. That path still shapes how I work: I care about the people using a system as much as the system itself.
+I currently combine analytics engineering for Minecraft with my work as a Senior Technical Trainer at Microsoft. It is an unusual combination, but a useful one: I build governed data products, then help people understand, trust, and extend the systems around them.
 
-Today, I work across game telemetry, semantic modelling, scalable data pipelines, applied AI, and technical education. I enjoy taking a question that feels complicated or ambiguous and turning it into something clear, governed, and useful.
+My route into data started with psychology, moved through artificial intelligence and data science, and eventually found a home in analytics engineering. That path still shapes how I work. I am interested in the technical system, the decisions it supports, and the people who need to use it.
 
-## What I am working on
+## The work that gives me energy
 
-- Designing reusable semantic models for high volume telemetry
-- Building with Databricks, Microsoft Fabric, Python, SQL, and PySpark
-- Exploring practical ways to use AI in analytics engineering
+- Turning an ambiguous stakeholder question into a clear data design
+- Building reusable semantic models for high volume telemetry
+- Working across Databricks, Microsoft Fabric, Python, SQL, and PySpark
+- Exploring practical uses of AI in analytics engineering
 - Turning lessons from real projects into talks, demos, and learning resources
 
-## What matters to me
+## What I bring to a team
 
-- **Useful data over impressive data.** A solution should help someone make a better decision.
-- **Clarity over unnecessary complexity.** Good engineering should make difficult things easier to understand.
-- **Learning should be shared.** Teaching, mentoring, and documenting what I learn are part of how I work.
-- **Collaboration makes the work better.** The best solutions come from understanding both the technical system and the people around it.
+- **A translator's mindset.** I enjoy working between stakeholders, engineers, analysts, and leaders to make sure we are solving the same problem.
+- **Technical depth with a practical purpose.** Tools matter, but only when they lead to something people can trust and use.
+- **An enthusiasm for sharing what I learn.** Teaching, mentoring, speaking, and documenting are part of how I become a better engineer.
+- **Honest collaboration.** I speak my mind, ask questions, and try to create enough psychological safety for other people to do the same.
 
 ## Explore my work
 
@@ -29,6 +30,6 @@ Today, I work across game telemetry, semantic modelling, scalable data pipelines
 
 ## Say hello
 
-If you are working on data products, semantic models, analytics engineering, technical education, or an interesting problem that needs untangling, I would be happy to connect.
+If you are working on data products, semantic models, analytics engineering, technical education, or simply have an interesting problem that needs untangling, I would be happy to connect.
 
 [LinkedIn](https://www.linkedin.com/in/victoria-eshelby/) · [Portfolio](https://veshelbymtt.github.io/data-portfolio/)
